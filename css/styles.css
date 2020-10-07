@@ -598,6 +598,7 @@ pre code {
 }
 .row {
   display: flex;
+  justify-content: center;
   flex-wrap: wrap;
   margin-right: -0.75rem;
   margin-left: -0.75rem;
@@ -10321,7 +10322,7 @@ header.masthead .masthead-heading {
   color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: #fed136;
+  background-color: #008080;
 }
 .timeline > li .timeline-image h4 {
   font-size: 10px;
